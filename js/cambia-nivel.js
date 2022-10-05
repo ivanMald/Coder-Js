@@ -10,6 +10,8 @@ function actualizaNivel() {
   document.querySelector("#nivel").innerText = nivelTexto;
 }
 
+
+
 function cargaNuevoNivel() {
   subeNivel();
   actualizaNivel();

@@ -18,7 +18,6 @@ function iniciar() {
   } else {
     document.querySelector("#cronometro").classList.add("cronometro-oculto");
   }
-  let 
 
 }
 
